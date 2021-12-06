@@ -1,5 +1,5 @@
 # U-NET-for-Super-Resolution-of-Microscopy-Images
-Utilizing U-NET to deconvolve Structured Illumination Microscopy(SIM) Images
+Utilizing U-NET to reconstruct Structured Illumination Microscopy(SIM) Images
 
 ![Alt text](mitochondria.PNG?raw=true "Title")
 
