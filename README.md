@@ -6,6 +6,6 @@ In this report, we design and implement a U-NET to train an algorithm for Super-
 
 References
 
-[1] https://en.wikipedia.org/wiki/U-Net#cite_note-RFB-1
+[1] https://en.wikipedia.org/wiki/U-Net#cite_note-RFB-1  <br>
 [2] https://arxiv.org/abs/1505.04597
 [3] Jin, L., Liu, B., Zhao, F. et al. Deep learning enables structured illumination microscopy with low light levels and enhanced speed. Nat Commun 11, 1934 (2020). https://doi.org/10.1038/s41467-020-15784-x
