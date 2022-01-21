@@ -1,5 +1,5 @@
 # U-NET-for-Super-Resolution-of-Microscopy-Images
-Utilizing U-NET to reconstruct Structured Illumination Microscopy(SIM) Images
+Utilizing U-NET to reconstruct Structured Illumination Microscopy(SIM) Images <br>
 Computational Imaging Research Labratory, University of Memphis
 
 ![Alt text](mitochondria.PNG?raw=true "Title")
