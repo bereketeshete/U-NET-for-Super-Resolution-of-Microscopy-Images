@@ -9,7 +9,7 @@ In this report, we design and implement a U-NET to train an algorithm for Super-
 
 Please cite this Paper if you like this work: <br>
 
-B. E. Kebede and C. Preza, "Improved resolution in 3D structured illumination microscopy using a 3D-based U-Net," in Optica Imaging Congress (3D, COSI, DH, FLatOptics, IS, pcAOP), Technical Digest Series (Optica Publishing Group, 2023), paper ITu2E.3. <br?
+B. E. Kebede and C. Preza, "Improved resolution in 3D structured illumination microscopy using a 3D-based U-Net," in Optica Imaging Congress (3D, COSI, DH, FLatOptics, IS, pcAOP), Technical Digest Series (Optica Publishing Group, 2023), paper ITu2E.3. <br>
 
 References
 
